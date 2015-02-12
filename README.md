@@ -257,7 +257,7 @@ Si se presenta algún error con los datos de entrada el sistema retornará un me
 }
 ```
 
-## Compilacioón y Distribución
+## Compilación y Distribución
 -----------------------
 
 El proyecto utiliza Maven para la administración de dependencias y de compilación. Una vez teniendo Maven instalado para compilarlo hay que ejecutar el siguiente comando desde la raíz del proyecto:
