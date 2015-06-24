@@ -266,7 +266,7 @@ El proyecto utiliza Maven para la administración de dependencias y de compilaci
 mvn package
 ~~~
 
-Este comando compila, ejecuta las pruebas unitarias y crea el paquete .war `/target/OneBoxStockAPI.war`.
+Este comando compila, ejecuta las pruebas unitarias y crea el paquete .war `/target/StockManagerAPI.war`.
 
 El war puede ser instalado en un Tomcat y no es necesario la configuración de un BD ya que utiliza una en memoria (HSQLDB).
 
