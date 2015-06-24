@@ -1,4 +1,4 @@
-# OneBox Stock Manager API Test
+# Stock Manager API Test
 -----------------------
 
 ## Introducción
